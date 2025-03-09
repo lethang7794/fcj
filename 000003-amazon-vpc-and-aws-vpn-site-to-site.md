@@ -1,5 +1,7 @@
 # Amazon VPC and AWS VPN Site-to-Site
 
+See the workshop at <https://000003.awsstudygroup.com/>
+
 > [!TIP]
 > VPC vs VPN
 >

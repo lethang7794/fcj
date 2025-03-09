@@ -1,5 +1,7 @@
 # Set up VPC Peering
 
+See the workshop at <https://000019.awsstudygroup.com/>
+
 ## 1. Introduction
 
 > [!IMPORTANT]

@@ -1,5 +1,7 @@
 # Set up Hybrid DNS with Route 53 Resolver
 
+See the workshop at <https://000010.awsstudygroup.com/>
+
 ## 1. Introduction
 
 - **Route 53**: AWS's DNS service
