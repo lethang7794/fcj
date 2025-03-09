@@ -5,6 +5,7 @@
   - [Start with **Amazon VPC** and **AWS VPN Site-to-Site**](./000003-amazon-vpc-and-aws-vpn-site-to-site.md)
   - [Set up _Hybrid DNS_ with **Route 53 Resolver**](./000010-set-up-hybrid-dns-with-route-53-resolver.md)
   - [Set up **VPC Peering**](./000019-set-up-vpc-peering.md)
+  - [Set up **AWS Transit Gateway**](./000020-set-up-aws-transit-gateway.md)
 
 - Week 1:
 
