@@ -1,5 +1,9 @@
 # fcj - Notes for [AWS First Cloud Journey]
 
+- Week 3:
+
+  - [_Data protection_ with **AWS Backup**](./000013-data-protection-with-aws-backup.md)
+
 - Week 2:
 
   - [Start with **Amazon VPC** and **AWS VPN Site-to-Site**](./000003-amazon-vpc-and-aws-vpn-site-to-site.md)
