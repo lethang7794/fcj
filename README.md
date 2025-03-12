@@ -3,6 +3,7 @@
 - Week 3:
 
   - [_Data protection_ with **AWS Backup**](./000013-data-protection-with-aws-backup.md)
+  - [Using File **Storage Gateway**](./000024-using-file-storage-gateway.md)
 
 - Week 2:
 
