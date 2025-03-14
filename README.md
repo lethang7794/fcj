@@ -5,6 +5,7 @@
   - [_Data protection_ with **AWS Backup**](./000013-data-protection-with-aws-backup.md)
   - [Using File **Storage Gateway**](./000024-using-file-storage-gateway.md)
   - [VM Import/Export](./000014-vm-import-export.md)
+  - [Amazon FSx for Windows File Server](./000025-amazon-fsx-for-windows-file-server.md)
 
 - Week 2:
 
