@@ -1,5 +1,7 @@
 # Amazon FSx for Windows File Server
 
+See the workshop at <https://000025.awsstudygroup.com/>
+
 ## 1. Introduction
 
 ## 2. Preparation
