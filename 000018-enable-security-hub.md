@@ -18,3 +18,8 @@ See the workshop at <https://000018.awsstudygroup.com/>
 > Security Hub updates the calculated security score every 24 hours. For the administrator account, the score for a standard reflects both the administrator account and all of the member accounts.
 
 ## 4. Clean up resources
+
+> [!NOTE]
+> Don't forget to disable AWS Config recorder:
+>
+> - `AWS Config` console > `Settings` > `Customer managed recorder` tab > `Recorder` > _Edit_ > De-select `Enable Recoding` > _Confirm_.
