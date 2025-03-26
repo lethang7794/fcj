@@ -1,6 +1,12 @@
 # fcj - Notes for [AWS First Cloud Journey]
 
-- Week 3:
+- [Week 5](./week-5.md):
+
+  - [Enable **Security Hub**](./000018-enable-security-hub.md)
+  - [Optimizing EC2 Costs with Lambda](./000022-optimizing-ec2-costs-with-lambda.md)
+
+
+- Week 3-4:
 
   - [_Data protection_ with **AWS Backup**](./000013-data-protection-with-aws-backup.md)
   - [Using File **Storage Gateway**](./000024-using-file-storage-gateway.md)

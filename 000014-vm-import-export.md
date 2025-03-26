@@ -1,5 +1,7 @@
 # VM Import/Export
 
+See the workshop at <https://000014.awsstudygroup.com/>
+
 ## 1. VMWare Workstation
 
 > [!TIP]
