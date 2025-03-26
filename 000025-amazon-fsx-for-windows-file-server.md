@@ -137,7 +137,10 @@ See the workshop at <https://000025.awsstudygroup.com/>
 - Delete Amazon FSx `MAZ` file systems.
 - Delete CloudFormation stack.
 
+> [!NOTE]
+> There may be a backup of your FXs filesystem, don't forget to delete it.
+
 ## 14. Using the AWS CLI (reference)
 
-[^1]: https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtimes-deprecated
-[^2]: https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtimes-supported
+[^1]: <https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtimes-deprecated>
+[^2]: <https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html#runtimes-supported>
