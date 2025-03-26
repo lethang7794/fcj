@@ -4,6 +4,7 @@
 
   - [Enable **Security Hub**](./000018-enable-security-hub.md)
   - [_Optimizing EC2 Costs_ with **Lambda**](./000022-optimizing-ec2-costs-with-lambda.md)
+  - [_Manage Resources_ Using **Tags** and **Resource Groups**](000027-manage-resources-using-tags-and-resource-groups.md)
 
 - Week 3 - [4](./week-4.md):
 
