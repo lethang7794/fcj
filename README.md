@@ -8,6 +8,7 @@
   - [_Manage Access_ To EC2 Services With **Resource Tags** Through **IAM**](000028-manage-access-to-ec2-services-with-resource-tags-through-iam.md)
   - [_Limit User Permissions_ With **IAM** **_Permission Boundary_**](000030-limit-user-permissions-with-iam-permission-boundary.md)
   - [S3 _Encryption at rest_ with **AWS KMS**](000033-s3-encryption-at-rest-with-aws-kms.md)
+  - [IAM Role & Condition](000044-iam-role-and-condition.md)
 
 - Week 3 - [4](./week-4.md):
 
