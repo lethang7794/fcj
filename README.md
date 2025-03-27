@@ -5,6 +5,7 @@
   - [Enable **Security Hub**](./000018-enable-security-hub.md)
   - [_Optimizing EC2 Costs_ with **Lambda**](./000022-optimizing-ec2-costs-with-lambda.md)
   - [_Manage Resources_ Using **Tags** and **Resource Groups**](000027-manage-resources-using-tags-and-resource-groups.md)
+  - [Manage Access To EC2 Services With Resource Tags Through IAM](000028-manage-access-to-ec2-services-with-resource-tags-through-iam.md)
 
 - Week 3 - [4](./week-4.md):
 
