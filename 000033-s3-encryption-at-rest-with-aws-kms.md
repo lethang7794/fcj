@@ -10,6 +10,22 @@
 
 ## 3. Create Key Management Service
 
+> [!NOTE]
+> No AWS principal, including the account root user or key creator, has any permissions to a KMS key unless they are
+>
+> - explicitly allowed (by the KMS key's _key policy_), and
+> - never denied, in a key policy, IAM policy, or grant.
+>
+> See: [AWS KMS Key Policies](https://docs.aws.amazon.com/kms/latest/developerguide/key-policies.html)
+
+> [!TIP]
+> For better security, you can use 2 different roles with different permissions for the KMS key:
+>
+> - One for the **key administrator** who manages the key (create key, update key, delete key...)
+> - One for the **key users** who use the key (encrypt, decrypt...)
+>
+> See: [AWS KMS Key Policies](https://docs.aws.amazon.com/kms/latest/developerguide/key-policies.html)
+
 ## 4. Create Amazon S3
 
 ### 4.1 Create Bucket
@@ -29,3 +45,9 @@
 ## 6. Test and share encrypted data on S3
 
 ## 7. Resource cleanup
+
+> [!TIP]
+> This workshop has the most detailed steps for cleaning resources. 👏
+
+> [!WARNING]
+> Don't forget to delete the Athena table.
