@@ -9,6 +9,7 @@
   - [_Limit User Permissions_ With **IAM** **_Permission Boundary_**](000030-limit-user-permissions-with-iam-permission-boundary.md)
   - [S3 _Encryption at rest_ with **AWS KMS**](000033-s3-encryption-at-rest-with-aws-kms.md)
   - [IAM Role & Condition](000044-iam-role-and-condition.md)
+  - [Granting authorization for an application to access AWS services with an IAM role](000048-granting-authorization-for-an-application-to-access-aws-services-with-an-iam-role.md)
 
 - Week 3 - [4](./week-4.md):
 
