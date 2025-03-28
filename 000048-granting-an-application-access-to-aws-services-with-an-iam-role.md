@@ -1,4 +1,4 @@
-# Granting authorization for an application to access AWS services with an IAM role
+# Granting an Application access to AWS services with an IAM role
 
 ## 1. Preparation
 
