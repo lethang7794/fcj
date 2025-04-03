@@ -1,5 +1,9 @@
 # fcj - Notes for [AWS First Cloud Journey]
 
+- [Week 6](./week-6.md)
+
+  - [_Create a database_ on **Amazon Relational Database Service** (**Amazon RDS**)](./000005-create-a-database-on-amazon-relational-database-service-amazon-rds.md)
+
 - [Week 5](./week-5.md):
 
   - [Enable **Security Hub**](./000018-enable-security-hub.md)
