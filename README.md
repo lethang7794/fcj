@@ -1,5 +1,9 @@
 # fcj - Notes for [AWS First Cloud Journey]
 
+- [Week 7](./week-7.md)
+
+  - [Data Lake on AWS](./000035-data-lake-on-aws.md)
+
 - [Week 6](./week-6.md)
 
   - [_Create a database_ on **Amazon Relational Database Service** (**Amazon RDS**)](./000005-create-a-database-on-amazon-relational-database-service-amazon-rds.md)
