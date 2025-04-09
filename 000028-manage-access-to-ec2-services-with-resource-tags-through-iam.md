@@ -1,5 +1,7 @@
 # Manage Access To EC2 Services With Resource Tags Through IAM
 
+See the workshop at <https://000028.awsstudygroup.com/>
+
 ## 1. Introduction
 
 ## 2. Preparation

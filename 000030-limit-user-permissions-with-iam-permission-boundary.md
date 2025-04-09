@@ -1,5 +1,7 @@
 # Limit User Permissions With IAM Permission Boundary
 
+See the workshop at <https://000030.awsstudygroup.com/>
+
 ## 1. Introduction
 
 > [!NOTE]

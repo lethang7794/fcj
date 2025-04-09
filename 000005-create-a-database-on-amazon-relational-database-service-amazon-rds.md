@@ -1,5 +1,7 @@
 # Create a database on Amazon Relational Database Service (Amazon RDS)
 
+See the workshop at <https://000005.awsstudygroup.com/>
+
 ## 1. Introduction
 
 > [!NOTE]

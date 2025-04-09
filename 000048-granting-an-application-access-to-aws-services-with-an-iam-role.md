@@ -1,5 +1,7 @@
 # Granting an Application access to AWS services with an IAM role
 
+See the workshop at <https://000048.awsstudygroup.com/>
+
 ## 1. Preparation
 
 ### 1.1 Create EC2 Instance

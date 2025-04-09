@@ -1,5 +1,7 @@
 # IAM Role & Condition
 
+See the workshop at <https://000044.awsstudygroup.com/>
+
 ## 1. Introduction about IAM
 
 > [!NOTE]
