@@ -4,7 +4,12 @@
 
   - [_Data Lake_ on AWS with **AWS Glue**, **Amazon Athena** and **Quicksight**](./000035-data-lake-on-aws.md)
   - [_Cost analysis_ with **AWS Glue** and **Amazon Athena**](./000040-cost-and-performance-analysis-with-aws-glue-and-amazon-athena.md)
-  - [Work with **Amazon DynamoDB**](./000060-work-with-amazon-dynamodb.md)
+  - [Getting started with **Amazon DynamoDB**](./000060-work-with-amazon-dynamodb.md)
+  - [**Amazon DynamoDB** _Immersion Day_](./000039-amazon-dynamodb-immersion-day.md)
+    - [LHOL: Hands-on Labs for Amazon DynamoDB](./000039-LHOL-hands-on-labs-for-amazon-dynamodb.md)
+    - [LADV: Advanced Design Patterns for Amazon DynamoDB](./000039-LADV-advanced-design-patterns-for-amazon-dynamodb.md)
+    - [LMR: Build and Deploy a Global (Multi-Region) Serverless Application with Amazon DynamoDB](./000039-LMR-build-and-deploy-a-global-multi-region-serverless-application-with-amazon-dynamodb.md)
+    - [LEDA: Build a Serverless Event Driven Architecture with DynamoDB](./000039-LEDA-build-a-serverless-event-driven-architecture-with-dynamo-db)
 
 - [Week 6](./week-6.md)
 
