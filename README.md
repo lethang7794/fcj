@@ -2,7 +2,9 @@
 
 - [Week 7](./week-7.md)
 
-  - [Data Lake on AWS](./000035-data-lake-on-aws.md)
+  - [_Data Lake_ on AWS with **AWS Glue**, **Amazon Athena** and **Quicksight**](./000035-data-lake-on-aws.md)
+  - [_Cost analysis_ with **AWS Glue** and **Amazon Athena**](./000040-cost-and-performance-analysis-with-aws-glue-and-amazon-athena.md)
+  - [Work with **Amazon DynamoDB**](./000060-work-with-amazon-dynamodb.md)
 
 - [Week 6](./week-6.md)
 
