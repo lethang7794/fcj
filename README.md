@@ -11,7 +11,7 @@
     - [LMR: Build and Deploy a _Global_ (Multi-Region) Serverless Application with **Amazon DynamoDB**](./000039-LMR-build-and-deploy-a-global-multi-region-serverless-application-with-amazon-dynamodb.md)
     - [LEDA: Build a Serverless _Event Driven Architecture_ with **Amazon DynamoDB**](./000039-LEDA-build-a-serverless-event-driven-architecture-with-dynamo-db)
   - [Introduction to _analytics on AWS_](./000072-analytics-on-aws-workshop.md)
-  - [Get started with Amazon Quicksight](./000073-get-started-with-amazon-quicksight.md)
+  - [Get started with **Amazon Quicksight**](./000073-get-started-with-amazon-quicksight.md)
 
 - [Week 6](./week-6.md)
 
