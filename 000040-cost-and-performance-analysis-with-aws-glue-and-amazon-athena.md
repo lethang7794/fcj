@@ -13,7 +13,7 @@ See the workshop at <https://000040.awsstudygroup.com/>
 > [!WARNING]
 > In my case, to have the table `monthly_report`, I need to choose the AWS Glue crawler's **data source** of `s3://my-fcj-cost-and-usage-analysis-bucket/Monthly-Report/`.
 >
-> If I choose the data source of `s3://my-fcj-cost-and-usage-analysis-bucket/`, the table would have the name of the S3 bucket (`my_fcj_cost_and_usage_analysis_bucket`)
+> If I choose the data source of `s3://my-fcj-cost-and-usage-analysis-bucket/`, the table would have the name of the S3 bucket (`my-fcj-cost-and-usage-analysis-bucket`)
 
 ### 2.3 Database Check
 
